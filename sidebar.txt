@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bjg:home|Door43 (bjg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bjg|d43-bjg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bjg/archive/master.zip|d43-bjg.zip]]
+
+**Recent Changes**
+{{changes>ns = bjg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bjg|Ethnologue data]]
+
